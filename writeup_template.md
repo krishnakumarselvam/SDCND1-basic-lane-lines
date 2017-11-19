@@ -21,9 +21,17 @@ My pipeline consisted of 5 steps.
 > Added gaussian blur
 <img src="img/step2.png" width="240" alt="Grayscale" />
 
-In order to draw a single line on the left and right lanes, I modified the draw_lines() function by ...
+> Canny edge detection
+<img src="img/step3.png" width="240" alt="Grayscale" />
 
-If you'd like to include images to show how the pipeline works, here is how to include an image:
+> Masking
+<img src="img/step4.png" width="240" alt="Grayscale" />
+
+> Hough transform
+<img src="img/step5.png" width="240" alt="Grayscale" />
+
+> Fit linear equation
+<img src="img/step6.png" width="240" alt="Grayscale" />
 
 
 ### 2. Identify potential shortcomings with your current pipeline
