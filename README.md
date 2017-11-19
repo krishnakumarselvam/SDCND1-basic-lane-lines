@@ -7,4 +7,4 @@ Overview
 ---
 * Outputs: [video 1](https://youtu.be/mnNc1lqebHI), [video 2](https://youtu.be/3iS_FffYM_k)
 * [code](Main.ipynb)
-* [Implementation write up ](writeup_template.md)
+* [write up ](writeup_template.md)
