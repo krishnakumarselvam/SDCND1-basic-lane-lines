@@ -5,6 +5,8 @@
 
 Overview
 ---
+The goal of this project is to create a pipeline that detects lane lines on a road from a video.
+
 * Outputs: [video 1](https://youtu.be/mnNc1lqebHI), [video 2](https://youtu.be/3iS_FffYM_k)
 * [code](Main.ipynb)
 * [write up ](writeup_template.md)
