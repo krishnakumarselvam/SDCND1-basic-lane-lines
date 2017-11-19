@@ -29,10 +29,14 @@ My pipeline consisted of 5 steps. The functions are defined in [functions.py](fu
 <img src="img/step4.png" width="240" alt="Grayscale" />
 
 > Hough transform
+(rho = 2, theta = pi / 180, threshold = 15,
+min_line_length = 40, max_line_gap = 20)
 <img src="img/step5.png" width="240" alt="Grayscale" />
 
 > Fit linear equation
 <img src="img/step6.png" width="240" alt="Grayscale" />
+
+The results are also averaged over 5 frames (trailing) when the pipeline is run for videos.
 
 
 ### 2. Identify potential shortcomings with your current pipeline
