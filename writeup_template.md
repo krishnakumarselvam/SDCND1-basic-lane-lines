@@ -9,7 +9,11 @@ The goals / steps of this project are the following:
 * Reflect on your work in a written report
 
 ---
+### Output
 
+[Video 1](https://youtu.be/mnNc1lqebHI)
+[Video 2](https://youtu.be/3iS_FffYM_k)
+---
 ### Reflection
 
 ### 1. Describe your pipeline. As part of the description, explain how you modified the draw_lines() function.
@@ -37,7 +41,6 @@ min_line_length = 40, max_line_gap = 20)
 <img src="img/step6.png" width="240" alt="Grayscale" />
 
 The results are also averaged over 5 frames (trailing) when the pipeline is run for videos.
-
 
 ### 2. Identify potential shortcomings with your current pipeline
 
