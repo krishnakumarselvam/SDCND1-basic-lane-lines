@@ -16,7 +16,7 @@ The goals / steps of this project are the following:
 
 My pipeline consisted of 5 steps.
 * Convert image to Grayscale
-<img src="img/step1.png" width="480" alt="Grayscale" />
+<img src="img/step1.png" width="240" alt="Grayscale" />
 
 * Added gaussian blur
 
