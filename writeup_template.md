@@ -15,10 +15,11 @@ The goals / steps of this project are the following:
 ### 1. Describe your pipeline. As part of the description, explain how you modified the draw_lines() function.
 
 My pipeline consisted of 5 steps.
-* Convert image to Grayscale
+> Convert image to Grayscale
 <img src="img/step1.png" width="240" alt="Grayscale" />
 
-* Added gaussian blur
+> Added gaussian blur
+<img src="img/step2.png" width="240" alt="Grayscale" />
 
 In order to draw a single line on the left and right lanes, I modified the draw_lines() function by ...
 
