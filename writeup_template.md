@@ -24,7 +24,6 @@ My pipeline consisted of 5 steps. The functions are defined in [functions.py](fu
 
 > Canny edge detection (thresholds = (50, 150))
 <img src="img/step3.png" width="240" alt="Grayscale" />
-g/step3.png" width="240" alt="Grayscale" />
 
 > Masking
 <img src="img/step4.png" width="240" alt="Grayscale" />
