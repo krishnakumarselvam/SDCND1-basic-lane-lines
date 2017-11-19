@@ -43,11 +43,14 @@ min_line_length = 40, max_line_gap = 20)
 The results are also averaged over 5 frames (trailing) when the pipeline is run for videos.
 
 ### 2. Identify potential shortcomings with your current pipeline
-
+Some of the shortcomings of this pipeline are
+* We fit a linear equation to the immediate stretch of lane lines ahead of us. This won't approximate well when there are sharp turns
+* It doesn't do well with different colored surfaces. For example, it performed quite poorly in the challenge video
+* There are a bunch of hand-tuned parameters which may / may not work for other lighting conditions / weather conditions
 
 
 ### 3. Suggest possible improvements to your pipeline
 
-A possible improvement would be to ...
-
-Another potential improvement could be to ...
+Potential improvements
+* Make use of the relationship between the left and right lane (i.e. we expect them to be X feet apart most of the time). Perhaps a Kalman filter (that incorporates this constraint might do better than average smoothing)
+* Look at other vehicles in the road to identify lane lines when the markings aren't clear
