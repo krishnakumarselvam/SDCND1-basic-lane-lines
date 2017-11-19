@@ -11,8 +11,8 @@ The goals / steps of this project are the following:
 ---
 ### Output
 
-[Video 1](https://youtu.be/mnNc1lqebHI)
-[Video 2](https://youtu.be/3iS_FffYM_k)
+* [Video 1](https://youtu.be/mnNc1lqebHI)
+* [Video 2](https://youtu.be/3iS_FffYM_k)
 ---
 ### Reflection
 
