@@ -16,15 +16,13 @@ The goals / steps of this project are the following:
 
 My pipeline consisted of 5 steps.
 * Convert image to Grayscale
-[image1]: ./img/step1.png
+<img src="img/step1.png" width="480" alt="Grayscale" />
 
 * Added gaussian blur
 
 In order to draw a single line on the left and right lanes, I modified the draw_lines() function by ...
 
 If you'd like to include images to show how the pipeline works, here is how to include an image:
-
-![alt text][image1]
 
 
 ### 2. Identify potential shortcomings with your current pipeline
