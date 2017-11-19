@@ -14,7 +14,8 @@ The goals / steps of this project are the following:
 
 ### 1. Describe your pipeline. As part of the description, explain how you modified the draw_lines() function.
 
-My pipeline consisted of 5 steps.
+My pipeline consisted of 5 steps. The functions are defined in [functions.py](functions.py)
+
 > Convert image to Grayscale
 <img src="img/step1.png" width="240" alt="Grayscale" />
 
@@ -36,10 +37,6 @@ My pipeline consisted of 5 steps.
 
 ### 2. Identify potential shortcomings with your current pipeline
 
-
-One potential shortcoming would be what would happen when ...
-
-Another shortcoming could be ...
 
 
 ### 3. Suggest possible improvements to your pipeline
