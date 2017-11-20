@@ -40,7 +40,7 @@ min_line_length = 40, max_line_gap = 20)
 > Fit linear equation
 <img src="img/step6.png" width="240" alt="Grayscale" />
 
-The results are also averaged over 5 frames (trailing) when the pipeline is run for videos.
+The results are also averaged over 8 frames (trailing) when the pipeline is run for videos.
 
 ### 2. Identify potential shortcomings with your current pipeline
 Some of the shortcomings of this pipeline are
